@@ -1,0 +1,3399 @@
+# Created by Octave 4.2.1, Fri Feb 09 00:21:13 2018 GMT <unknown@unknown>
+# name: subjInfo
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 5
+# name: ID
+# type: sq_string
+# elements: 0
+
+
+# name: Gender
+# type: sq_string
+# elements: 0
+
+
+# name: Age
+# type: scalar
+NaN
+
+
+# name: Sleep
+# type: scalar
+NaN
+
+
+# name: Alert
+# type: scalar
+NaN
+
+
+
+
+# name: faces1
+# type: struct
+# ndims: 2
+ 10 1
+# length: 6
+# name: name
+# type: cell
+# rows: 10
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+Wen_Jiabao_0006.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+Lily_Tomlin_0002.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 25
+Gerard_Depardieu_0002.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+Halle_Berry_0002.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 28
+Juan_Carlos_Ferrero_0010.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 23
+Dwayne_Johnson_0002.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 22
+Colin_Farrell_0005.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 22
+Hideki_Matsui_0002.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+Elton_John_0001.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+Dalai_Lama_0001.jpg
+
+
+
+
+
+# name: date
+# type: cell
+# rows: 10
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 13:14:38
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 13:07:40
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 13:48:44
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 13:03:16
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 13:06:10
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 13:49:16
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 12:59:04
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 13:03:50
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 13:00:48
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 12:59:22
+
+
+
+
+
+# name: bytes
+# type: cell
+# rows: 10
+# columns: 1
+# name: <cell-element>
+# type: scalar
+7471
+
+
+# name: <cell-element>
+# type: scalar
+6003
+
+
+# name: <cell-element>
+# type: scalar
+35158
+
+
+# name: <cell-element>
+# type: scalar
+6573
+
+
+# name: <cell-element>
+# type: scalar
+7892
+
+
+# name: <cell-element>
+# type: scalar
+9355
+
+
+# name: <cell-element>
+# type: scalar
+8235
+
+
+# name: <cell-element>
+# type: scalar
+8358
+
+
+# name: <cell-element>
+# type: scalar
+7021
+
+
+# name: <cell-element>
+# type: scalar
+7706
+
+
+
+
+
+# name: isdir
+# type: cell
+# rows: 10
+# columns: 1
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+
+
+
+# name: datenum
+# type: cell
+# rows: 10
+# columns: 1
+# name: <cell-element>
+# type: scalar
+736085.5518287037
+
+
+# name: <cell-element>
+# type: scalar
+736085.5469907407
+
+
+# name: <cell-element>
+# type: scalar
+736085.5755092592
+
+
+# name: <cell-element>
+# type: scalar
+736085.5439351852
+
+
+# name: <cell-element>
+# type: scalar
+736085.5459490741
+
+
+# name: <cell-element>
+# type: scalar
+736085.5758796296
+
+
+# name: <cell-element>
+# type: scalar
+736085.5410185185
+
+
+# name: <cell-element>
+# type: scalar
+736085.5443287037
+
+
+# name: <cell-element>
+# type: scalar
+736085.5422222222
+
+
+# name: <cell-element>
+# type: scalar
+736085.5412268519
+
+
+
+
+
+# name: statinfo
+# type: cell
+# rows: 10
+# columns: 1
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+7471
+
+
+# name: atime
+# type: scalar
+1430511278
+
+
+# name: mtime
+# type: scalar
+1430511278
+
+
+# name: ctime
+# type: scalar
+1430511278
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+6003
+
+
+# name: atime
+# type: scalar
+1430510860
+
+
+# name: mtime
+# type: scalar
+1430510860
+
+
+# name: ctime
+# type: scalar
+1430510860
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+35158
+
+
+# name: atime
+# type: scalar
+1430513324
+
+
+# name: mtime
+# type: scalar
+1430513324
+
+
+# name: ctime
+# type: scalar
+1430513324
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+6573
+
+
+# name: atime
+# type: scalar
+1430510596
+
+
+# name: mtime
+# type: scalar
+1430510596
+
+
+# name: ctime
+# type: scalar
+1430510596
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+7892
+
+
+# name: atime
+# type: scalar
+1430510770
+
+
+# name: mtime
+# type: scalar
+1430510770
+
+
+# name: ctime
+# type: scalar
+1430510770
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+9355
+
+
+# name: atime
+# type: scalar
+1430513356
+
+
+# name: mtime
+# type: scalar
+1430513356
+
+
+# name: ctime
+# type: scalar
+1430513356
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+8235
+
+
+# name: atime
+# type: scalar
+1430510344
+
+
+# name: mtime
+# type: scalar
+1430510344
+
+
+# name: ctime
+# type: scalar
+1430510344
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+8358
+
+
+# name: atime
+# type: scalar
+1430510630
+
+
+# name: mtime
+# type: scalar
+1430510630
+
+
+# name: ctime
+# type: scalar
+1430510630
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+7021
+
+
+# name: atime
+# type: scalar
+1430510448
+
+
+# name: mtime
+# type: scalar
+1430510448
+
+
+# name: ctime
+# type: scalar
+1430510448
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+7706
+
+
+# name: atime
+# type: scalar
+1430510362
+
+
+# name: mtime
+# type: scalar
+1430510362
+
+
+# name: ctime
+# type: scalar
+1430510362
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+
+
+
+
+
+# name: isStudied
+# type: matrix
+# rows: 1
+# columns: 10
+ 20 17 12 14 16 10 8 15 11 9
+
+
+# name: faces_rand
+# type: struct
+# ndims: 2
+ 20 1
+# length: 6
+# name: name
+# type: cell
+# rows: 20
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+Wen_Jiabao_0006.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+Lily_Tomlin_0002.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 25
+Gerard_Depardieu_0002.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+Halle_Berry_0002.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 28
+Juan_Carlos_Ferrero_0010.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 23
+Dwayne_Johnson_0002.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 22
+Colin_Farrell_0005.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 22
+Hideki_Matsui_0002.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+Elton_John_0001.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+Dalai_Lama_0001.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 29
+Sarah_Jessica_Parker_0002.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+Aaron_Guiel_0001.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 24
+Gwyneth_Paltrow_0004.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 21
+Adam_Sandler_0001.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 22
+Aaron_Peirsol_0003.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+Chris_Rock_0002.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 21
+Brad_Garrett_0004.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 22
+Michelle_Kwan_0007.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 22
+Aaron_Eckhart_0001.jpg
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 16
+Al_Gore_0007.jpg
+
+
+
+
+
+# name: date
+# type: cell
+# rows: 20
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 13:14:38
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 13:07:40
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 13:48:44
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 13:03:16
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 13:06:10
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 13:49:16
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 12:59:04
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 13:03:50
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 13:00:48
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 12:59:22
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 13:46:24
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+06-Oct-2007 14:50:34
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 13:03:00
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+06-Oct-2007 14:44:30
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 13:50:04
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 13:49:34
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 13:49:50
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+01-May-2015 13:47:36
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+06-Oct-2007 14:52:18
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+06-Oct-2007 14:46:06
+
+
+
+
+
+# name: bytes
+# type: cell
+# rows: 20
+# columns: 1
+# name: <cell-element>
+# type: scalar
+7471
+
+
+# name: <cell-element>
+# type: scalar
+6003
+
+
+# name: <cell-element>
+# type: scalar
+35158
+
+
+# name: <cell-element>
+# type: scalar
+6573
+
+
+# name: <cell-element>
+# type: scalar
+7892
+
+
+# name: <cell-element>
+# type: scalar
+9355
+
+
+# name: <cell-element>
+# type: scalar
+8235
+
+
+# name: <cell-element>
+# type: scalar
+8358
+
+
+# name: <cell-element>
+# type: scalar
+7021
+
+
+# name: <cell-element>
+# type: scalar
+7706
+
+
+# name: <cell-element>
+# type: scalar
+29970
+
+
+# name: <cell-element>
+# type: scalar
+14911
+
+
+# name: <cell-element>
+# type: scalar
+6355
+
+
+# name: <cell-element>
+# type: scalar
+10582
+
+
+# name: <cell-element>
+# type: scalar
+17187
+
+
+# name: <cell-element>
+# type: scalar
+9848
+
+
+# name: <cell-element>
+# type: scalar
+10823
+
+
+# name: <cell-element>
+# type: scalar
+27422
+
+
+# name: <cell-element>
+# type: scalar
+10828
+
+
+# name: <cell-element>
+# type: scalar
+15719
+
+
+
+
+
+# name: isdir
+# type: cell
+# rows: 20
+# columns: 1
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+# name: <cell-element>
+# type: bool
+0
+
+
+
+
+
+# name: datenum
+# type: cell
+# rows: 20
+# columns: 1
+# name: <cell-element>
+# type: scalar
+736085.5518287037
+
+
+# name: <cell-element>
+# type: scalar
+736085.5469907407
+
+
+# name: <cell-element>
+# type: scalar
+736085.5755092592
+
+
+# name: <cell-element>
+# type: scalar
+736085.5439351852
+
+
+# name: <cell-element>
+# type: scalar
+736085.5459490741
+
+
+# name: <cell-element>
+# type: scalar
+736085.5758796296
+
+
+# name: <cell-element>
+# type: scalar
+736085.5410185185
+
+
+# name: <cell-element>
+# type: scalar
+736085.5443287037
+
+
+# name: <cell-element>
+# type: scalar
+736085.5422222222
+
+
+# name: <cell-element>
+# type: scalar
+736085.5412268519
+
+
+# name: <cell-element>
+# type: scalar
+736085.5738888889
+
+
+# name: <cell-element>
+# type: scalar
+733321.6184490741
+
+
+# name: <cell-element>
+# type: scalar
+736085.54375
+
+
+# name: <cell-element>
+# type: scalar
+733321.6142361111
+
+
+# name: <cell-element>
+# type: scalar
+736085.5764351852
+
+
+# name: <cell-element>
+# type: scalar
+736085.576087963
+
+
+# name: <cell-element>
+# type: scalar
+736085.5762731482
+
+
+# name: <cell-element>
+# type: scalar
+736085.5747222222
+
+
+# name: <cell-element>
+# type: scalar
+733321.6196527778
+
+
+# name: <cell-element>
+# type: scalar
+733321.6153472222
+
+
+
+
+
+# name: statinfo
+# type: cell
+# rows: 20
+# columns: 1
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+7471
+
+
+# name: atime
+# type: scalar
+1430511278
+
+
+# name: mtime
+# type: scalar
+1430511278
+
+
+# name: ctime
+# type: scalar
+1430511278
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+6003
+
+
+# name: atime
+# type: scalar
+1430510860
+
+
+# name: mtime
+# type: scalar
+1430510860
+
+
+# name: ctime
+# type: scalar
+1430510860
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+35158
+
+
+# name: atime
+# type: scalar
+1430513324
+
+
+# name: mtime
+# type: scalar
+1430513324
+
+
+# name: ctime
+# type: scalar
+1430513324
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+6573
+
+
+# name: atime
+# type: scalar
+1430510596
+
+
+# name: mtime
+# type: scalar
+1430510596
+
+
+# name: ctime
+# type: scalar
+1430510596
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+7892
+
+
+# name: atime
+# type: scalar
+1430510770
+
+
+# name: mtime
+# type: scalar
+1430510770
+
+
+# name: ctime
+# type: scalar
+1430510770
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+9355
+
+
+# name: atime
+# type: scalar
+1430513356
+
+
+# name: mtime
+# type: scalar
+1430513356
+
+
+# name: ctime
+# type: scalar
+1430513356
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+8235
+
+
+# name: atime
+# type: scalar
+1430510344
+
+
+# name: mtime
+# type: scalar
+1430510344
+
+
+# name: ctime
+# type: scalar
+1430510344
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+8358
+
+
+# name: atime
+# type: scalar
+1430510630
+
+
+# name: mtime
+# type: scalar
+1430510630
+
+
+# name: ctime
+# type: scalar
+1430510630
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+7021
+
+
+# name: atime
+# type: scalar
+1430510448
+
+
+# name: mtime
+# type: scalar
+1430510448
+
+
+# name: ctime
+# type: scalar
+1430510448
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+7706
+
+
+# name: atime
+# type: scalar
+1430510362
+
+
+# name: mtime
+# type: scalar
+1430510362
+
+
+# name: ctime
+# type: scalar
+1430510362
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+29970
+
+
+# name: atime
+# type: scalar
+1430513184
+
+
+# name: mtime
+# type: scalar
+1430513184
+
+
+# name: ctime
+# type: scalar
+1430513184
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+14911
+
+
+# name: atime
+# type: scalar
+1191707434
+
+
+# name: mtime
+# type: scalar
+1191707434
+
+
+# name: ctime
+# type: scalar
+1191707434
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+6355
+
+
+# name: atime
+# type: scalar
+1430510580
+
+
+# name: mtime
+# type: scalar
+1430510580
+
+
+# name: ctime
+# type: scalar
+1430510580
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+10582
+
+
+# name: atime
+# type: scalar
+1191707070
+
+
+# name: mtime
+# type: scalar
+1191707070
+
+
+# name: ctime
+# type: scalar
+1191707070
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+17187
+
+
+# name: atime
+# type: scalar
+1430513404
+
+
+# name: mtime
+# type: scalar
+1430513404
+
+
+# name: ctime
+# type: scalar
+1430513404
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+9848
+
+
+# name: atime
+# type: scalar
+1430513374
+
+
+# name: mtime
+# type: scalar
+1430513374
+
+
+# name: ctime
+# type: scalar
+1430513374
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+10823
+
+
+# name: atime
+# type: scalar
+1430513390
+
+
+# name: mtime
+# type: scalar
+1430513390
+
+
+# name: ctime
+# type: scalar
+1430513390
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+27422
+
+
+# name: atime
+# type: scalar
+1430513256
+
+
+# name: mtime
+# type: scalar
+1430513256
+
+
+# name: ctime
+# type: scalar
+1430513256
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+10828
+
+
+# name: atime
+# type: scalar
+1191707538
+
+
+# name: mtime
+# type: scalar
+1191707538
+
+
+# name: ctime
+# type: scalar
+1191707538
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+# name: <cell-element>
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 14
+# name: dev
+# type: scalar
+2
+
+
+# name: ino
+# type: scalar
+0
+
+
+# name: mode
+# type: scalar
+33206
+
+
+# name: modestr
+# type: sq_string
+# elements: 1
+# length: 11
+-rw-rw-rw- 
+
+
+# name: nlink
+# type: scalar
+1
+
+
+# name: uid
+# type: scalar
+0
+
+
+# name: gid
+# type: scalar
+0
+
+
+# name: rdev
+# type: scalar
+2
+
+
+# name: size
+# type: scalar
+15719
+
+
+# name: atime
+# type: scalar
+1191707166
+
+
+# name: mtime
+# type: scalar
+1191707166
+
+
+# name: ctime
+# type: scalar
+1191707166
+
+
+# name: blksize
+# type: scalar
+NaN
+
+
+# name: blocks
+# type: scalar
+NaN
+
+
+
+
+
+
+
+
+
+# name: resp
+# type: matrix
+# rows: 1
+# columns: 20
+ 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+
+# name: acc
+# type: matrix
+# rows: 1
+# columns: 20
+ 1 1 0 0 0 0 1 1 0 1 1 1 0 0 0 1 0 1 1 1
+
+
+# name: RT
+# type: matrix
+# rows: 1
+# columns: 20
+ 0.6894382631871849 7.057998055941425 0.1830630057957023 0.09241909964475781 0.06925691198557615 0.0879864621674642 0.09332572668790817 0.09254910645540804 0.06701942451763898 0.08551419235300273 0.09368623944465071 0.100896491901949 0.1104960491647944 0.09145901561714709 0.1011150232516229 0.09885658056009561 0.1160914787324145 0.09575394820421934 0.07407785952091217 0.122644426417537
+
+
